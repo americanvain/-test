@@ -6,7 +6,7 @@ if __name__ == "__main__":
     headers={
         'User-agent':'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:96.0) Gecko/20100101 Firefox/96.0'
     }
-    url1="	http://scxk.nmpa.gov.cn:81/xk/itownet/portalAction.do?method=getXkzsList"
+    url1="http://scxk.nmpa.gov.cn:81/xk/itownet/portalAction.do?method=getXkzsList"
     data1={
 	'on': 'true',
 	'page': '1',
